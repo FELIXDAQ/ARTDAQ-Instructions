@@ -1,7 +1,2 @@
 # ARTDAQ-Instructions
-Contains the steps necessary to build ARTDAQ from source
-
-## Building from source
-
-
-## Building products with mrb
+Please go to the [wiki](https://github.com/FELIXDAQ/ARTDAQ-Instructions/wiki)
